@@ -1,1 +1,1 @@
-Frontend do sistema desenvolvido em React + TypeScript.
+Frontend do sistema desenvolvido em React + TypeScript
